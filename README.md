@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 | Project                            | Technologies and Services                                  |
 |------------------------------------|------------------------------------------------------------|
-| Automated Passenger Boarding Kiosk | <ul> <li> Azure Vision Services</li> <li>Custom Vision</li> <li>Form Recognizer</li> <li>Face API</li> <li>Video Indexer</li> <li>Azure Blob Storage</li> <li>Jupyter</li>  </ul>      |
+| Automated Passenger Boarding Kiosk | <ul> <li> Azure Vision Services</li> <li>Azure Blob Storage</li> <li>Custom Vision</li> <li>Form Recognizer</li> <li>Face API</li> <li>Video Indexer</li> <li>Jupyter</li>  </ul>      |
